@@ -12,3 +12,4 @@ driver = fbb.login(driver,email,password)
 for person in people:
     for message in messages:
         fbb.send_message(driver,person,message)
+driver.quit()
