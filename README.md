@@ -1,9 +1,9 @@
 # Facebook-send-message
-BOT FOR: Login to facebook acount - Send message to a selected person - With Selenium </br>
+BOT FOR: Login to facebook account - Send message to a selected person - With Selenium </br>
 
 In main.py </br>
--set email to your email</br>
--set password to your password</br>
--set people person list</br>
+-set email to your account</br>
+-set password to your account</br>
+-set people or person list</br>
 -set messages or message list</br>
 Run main.py file
